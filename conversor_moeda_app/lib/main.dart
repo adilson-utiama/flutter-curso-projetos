@@ -4,7 +4,11 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
+<<<<<<< HEAD
 //Substituir pela chave de acesso
+=======
+//Substituir pela chave de acesso real
+>>>>>>> 16c2b8fcee2da247748bd1d6719f3b774e24340c
 const request = "https://api.hgbrasil.com/finance?format=json&key=chave_acesso";
 
 void main() async {
