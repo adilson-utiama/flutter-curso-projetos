@@ -4,7 +4,8 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
-const request = "https://api.hgbrasil.com/finance?format=json&key=1abc188b";
+//Substituir pela chave de acesso
+const request = "https://api.hgbrasil.com/finance?format=json&key=chave_acesso";
 
 void main() async {
   runApp(MaterialApp(
