@@ -1,6 +1,6 @@
 # my_chat_online
 
-Aplicativo simples de Chat Onlline.
+Aplicativo simples de Chat Online.
 
 #App7 - Chat Online
 
