@@ -10,9 +10,9 @@ App#6 - Agenda de Contatos
 
 
 #Plugins
--> sqflite (SQLite plugin for Flutter.)
--> url_launcher (A Flutter plugin for launching a URL in the mobile platform. Supports iOS and Android.)
--> image_picker (A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.)
+* sqflite (SQLite plugin for Flutter.)
+* url_launcher (A Flutter plugin for launching a URL in the mobile platform. Supports iOS and Android.)
+* image_picker (A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.)
 
 
 #Widgets
