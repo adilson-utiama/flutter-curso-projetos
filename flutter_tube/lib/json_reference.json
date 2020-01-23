@@ -1,0 +1,342 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/HXvvFKqtyia3lwBq8xxyujfGVl0\"",
+ "nextPageToken": "CAoQAA",
+ "regionCode": "BR",
+ "pageInfo": {
+  "totalResults": 1000000,
+  "resultsPerPage": 10
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/Mu3f6vdKnAjKCSwm2Ic-vyvabtU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "R77tA-Hv8O0"
+   },
+   "snippet": {
+    "publishedAt": "2020-01-21T13:50:00.000Z",
+    "channelId": "UCRbXS1MKrZ55Vm5G9336BKw",
+    "title": "ALMOÇO/JANTAR RÁPIDO DE UMA PANELA | PRONTO EM 25 MINUTOS E DELICIOSO | RECEITAS DA CRIS",
+    "description": "E a receitinha de hoje é de um delicioso almoço de uma panela só, prático e rápido, coloca tudo junto mistura tudo e já ta pronto. Então, bora se animar, anotar ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/R77tA-Hv8O0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/R77tA-Hv8O0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/R77tA-Hv8O0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Receitas Da Cris",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/E1hi7yuSt3lWd0l1UqkAdi27PTw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "1ascSqgtxsQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-14T15:00:01.000Z",
+    "channelId": "UCDiFgiEPIB1ccbts9KVJyGQ",
+    "title": "Estas 10 receitas vão revolucionar o seu cardápio",
+    "description": "10 receitas com frango. O frango é muito popular entre os pratos de carne, porque é uma carne leve e muito macia, além de ter pouca gordura. As 10 receitas ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1ascSqgtxsQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1ascSqgtxsQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1ascSqgtxsQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "A Receitaria",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/q956dZyADoyIWRlywuWtbfcFtJE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "NGF4bsa5YnM"
+   },
+   "snippet": {
+    "publishedAt": "2019-11-29T17:15:01.000Z",
+    "channelId": "UCRbXS1MKrZ55Vm5G9336BKw",
+    "title": "SORVETÃO DE LEITE NINHO CREMOSO COM COBERTURA DE CHOCOLATE | RECEITAS DA CRIS",
+    "description": "Com as festas de final de ano e o verão chegando, precisamos de sobremesas deliciosas e refrescantes. E é esta receita que temos hoje aqui, sorvetão de leite ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NGF4bsa5YnM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NGF4bsa5YnM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NGF4bsa5YnM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Receitas Da Cris",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/RYieHecTVgBbazKjosYofv9PqRQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "aErndljJOUY"
+   },
+   "snippet": {
+    "publishedAt": "2018-08-28T15:00:31.000Z",
+    "channelId": "UCB0cIRr6cEkpzxtm3KTV3uw",
+    "title": "5 receitas fáceis demais",
+    "description": "Confira as receitas completas: bzfd.it/5-receitas-faceis-demais.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aErndljJOUY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aErndljJOUY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aErndljJOUY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Tasty Demais",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/8_ptRWEsQFMG8dU8GfeeVZYhTh8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "KlPufyk5mBM"
+   },
+   "snippet": {
+    "publishedAt": "2018-12-08T16:00:01.000Z",
+    "channelId": "UCRbXS1MKrZ55Vm5G9336BKw",
+    "title": "TORTA DE LIMÃO COM TORTINHAS | RECEITAS DA CRIS",
+    "description": "Hoje trago para vocês uma receita de torta de limão decorada com tortinhas sabor limão que além de muito saborosa fica com uma aparência incrível. Então ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KlPufyk5mBM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KlPufyk5mBM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KlPufyk5mBM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Receitas Da Cris",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ykJzyq6hjeiTw0jq8GhwL417vh8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "aQTFVMQwIlg"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-11T17:02:19.000Z",
+    "channelId": "UCF5WzS-iBJRfp_EcFI-GT1w",
+    "title": "NÃO FAÇA BOLINHO DE CHUVA ANTES DE VER ESSA RECEITA I BOLINHO PERFEITO",
+    "description": "Veja como fazer bolinho de chuva perfeito sem errar e aproveite esse lanchinho brasileiro que todo mundo adora! Com ingredientes simples vou te ensinar ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aQTFVMQwIlg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aQTFVMQwIlg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aQTFVMQwIlg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Receitas de Pai",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/-8n6lyOvJDyt1DATy51rwFE9NrY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "EDphrZl-leg"
+   },
+   "snippet": {
+    "publishedAt": "2019-12-05T18:05:04.000Z",
+    "channelId": "UCsxUZTnOOueiOgtsFUpcCog",
+    "title": "MOUSSE DE LEITE NINHO, GELATINA E MORANGOS-RECEITAS DE NATAL",
+    "description": "Ingredientes para o mousse 2 caixinhas de leite condensado(395g cada) 2 caixinhas de creme de leite(200g cada) 2 xícaras de leite ninho(leite em pó) 12g 1 ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EDphrZl-leg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EDphrZl-leg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EDphrZl-leg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Cozinhando com a Ly",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/x4cq5R7rPfkXei71tnYl8AX_pkg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "n0HUWV1Nqa0"
+   },
+   "snippet": {
+    "publishedAt": "2019-12-04T16:00:12.000Z",
+    "channelId": "UCRbXS1MKrZ55Vm5G9336BKw",
+    "title": "BOLO MOUSSE DE LIMÃO NA TRAVESSA | RECEITAS DA CRIS",
+    "description": "A receitinha de hoje é MEGA ESPECIAL. Bolo mousse de limão na travessa !! Ideal para os almoços em família, confraternizações e festas do final de ano!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/n0HUWV1Nqa0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/n0HUWV1Nqa0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/n0HUWV1Nqa0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Receitas Da Cris",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/yg-uZ0VxaeTN_F_J7A62hgCv-Vw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FYFQQyF72SU"
+   },
+   "snippet": {
+    "publishedAt": "2019-08-13T21:39:04.000Z",
+    "channelId": "UCNkiQbGp_yePvUJ8cUp-7cA",
+    "title": "Já comeu  Batata assim uma receita deliciosa",
+    "description": "Uma receita que vai mudar o seu jeito de fazer batata ao forno uma receita de da água na boca muito saborosa e bem temperada uma ótima sugestão para ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FYFQQyF72SU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FYFQQyF72SU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FYFQQyF72SU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Adilson Figueira",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU/ig6fpcanXTqWY1Gye1GxjVvSbRU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "KtG5yL13uBY"
+   },
+   "snippet": {
+    "publishedAt": "2019-12-12T16:00:07.000Z",
+    "channelId": "UCRbXS1MKrZ55Vm5G9336BKw",
+    "title": "PAVÊ - FÁCIL RÁPIDO E DELICIOSO - ESPECIAL DE NATAL - RECEITAS DA CRIS",
+    "description": "Ho Ho Ho, o papai noel chegou !! Continuando o ESPECIAL DE NATAL !! do canal Receitas Da Cris. A receita de hoje é o tradicional PAVÊ !! É pavê ou pa ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KtG5yL13uBY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KtG5yL13uBY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KtG5yL13uBY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Receitas Da Cris",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}
